@@ -1,5 +1,5 @@
 # Gout
-#### Polygenic risk score model for gout
+#### Polygenic risk score for gout
 Moon, K. W., Jung, S. H., … & Kim, D. (2024) Cardiovascular risk according to genetic predisposition to gout, lifestyle, and metabolic health across prospective European and Korean cohorts.
 
 ### Gout - 1,103,359 variants
